@@ -9,7 +9,13 @@ echo "Hostname: $(hostname)"
 echo ""
 
 echo "=== 2. Home Directory Disk Usage (du -sh) ==="
-du -sh .
+if [[ "$OSTYPE" == "msys"* || "$OSTYPE" == "cygwin"* ]]; then
+    # Running in Git Bash on Windows: scan current repo directory to avoid hanging on AppData
+    du -sh .
+else
+    # Running on native Linux: safe to scan the user's home directory
+    du -sh "$HOME"
+fi
 echo ""
 
 echo "=== 3. Navigating and Inspecting /usr/share ==="
