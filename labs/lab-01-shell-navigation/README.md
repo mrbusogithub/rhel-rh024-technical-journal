@@ -7,4 +7,4 @@ Verify default Bash shell behavior, inspect directory disk consumption using sho
 
 ```bash
 chmod +x shell_basics.sh
-./shell_basics.sh
+bash shell_basics.sh

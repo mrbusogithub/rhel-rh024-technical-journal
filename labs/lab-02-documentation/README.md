@@ -7,4 +7,4 @@ Practice offline system documentation lookup using `man` sections, keyword searc
 
 ```bash
 chmod +x doc_lookup.sh
-./doc_lookup.sh
+bash doc_lookup.sh
