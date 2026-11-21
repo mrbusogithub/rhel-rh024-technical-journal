@@ -23,7 +23,7 @@ This repository documents my practical execution of the **Red Hat Enterprise Lin
 | **02** | Introduction to the Shell | ✅ **Complete** | [`docs/01-linux-architecture-and-shell.md`](docs/01-linux-architecture-and-shell.md) | [`labs/lab-01-shell-navigation/`](labs/lab-01-shell-navigation/) |
 | **03** | Documentation (Man Pages) | ✅ **Complete** | [`docs/02-linux-documentation.md`](docs/02-linux-documentation.md) | [`labs/lab-02-documentation/`](labs/lab-02-documentation/) |
 | **04** | Command Line Assistant (RHEL Lightspeed) | ✅ **Complete** | [`docs/03-rhel-lightspeed.md`](docs/03-rhel-lightspeed.md) | [`labs/lab-03-lightspeed/`](labs/lab-03-lightspeed/) |
-| **05** | Linux Directories Explained (FHS) | ⏳ **Pending** | Coming Soon | Coming Soon |
+| **05** | Linux Directories Explained (FHS) | ✅ **Complete** | [`docs/04-filesystem-hierarchy.md`](docs/04-filesystem-hierarchy.md) | [`labs/lab-04-filesystem-hierarchy/`](labs/lab-04-filesystem-hierarchy/) |
 | **06** | Basic File Management | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **07** | Editing Files with Vim | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **08** | Organizing Local Users and Groups | ⏳ **Pending** | Coming Soon | Coming Soon |
