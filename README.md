@@ -1,7 +1,7 @@
 # Red Hat Enterprise Linux Technical Overview (RH024) - Learning Journal
 
 [![RHEL 10](https://img.shields.io/badge/OS-Red%20Hat%20Enterprise%20Linux%2010-red)](https://www.redhat.com)
-[![Course Status](https://img.shields.io/badge/Status-In%20Progress%20(12%25)-blue)](https://rhtapps.redhat.com/promo/course/rh024?segment=0)
+[![Course Status](https://img.shields.io/badge/Status-In%20Progress%20(25%25)-blue)](https://rhtapps.redhat.com/promo/course/rh024?segment=0)
 [![License-GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 
 This repository documents my practical execution of the **Red Hat Enterprise Linux Technical Overview (RH024)**. Beyond theoretical notes, it contains automated setup scripts, cross-platform environment verifications, and hands-on system administration labs targeting enterprise readiness for the Atos/Red Hat training programme.
@@ -24,7 +24,7 @@ This repository documents my practical execution of the **Red Hat Enterprise Lin
 | **03** | Documentation (Man Pages) | ✅ **Complete** | [`docs/02-linux-documentation.md`](docs/02-linux-documentation.md) | [`labs/lab-02-documentation/`](labs/lab-02-documentation/) |
 | **04** | Command Line Assistant (RHEL Lightspeed) | ✅ **Complete** | [`docs/03-rhel-lightspeed.md`](docs/03-rhel-lightspeed.md) | [`labs/lab-03-lightspeed/`](labs/lab-03-lightspeed/) |
 | **05** | Linux Directories Explained (FHS) | ✅ **Complete** | [`docs/04-filesystem-hierarchy.md`](docs/04-filesystem-hierarchy.md) | [`labs/lab-04-filesystem-hierarchy/`](labs/lab-04-filesystem-hierarchy/) |
-| **06** | Basic File Management | ⏳ **Pending** | Coming Soon | Coming Soon |
+| **06** | Basic File Management | ✅ **Complete** | [`docs/05-basic-file-management.md`](docs/05-basic-file-management.md) | [`labs/lab-05-file-management/`](labs/lab-05-file-management/) |
 | **07** | Editing Files with Vim | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **08** | Organizing Local Users and Groups | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **09** | File Permissions | ⏳ **Pending** | Coming Soon | Coming Soon |
