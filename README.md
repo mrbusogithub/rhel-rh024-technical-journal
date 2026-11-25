@@ -25,7 +25,7 @@ This repository documents my practical execution of the **Red Hat Enterprise Lin
 | **04** | Command Line Assistant (RHEL Lightspeed) | ✅ **Complete** | [`docs/03-rhel-lightspeed.md`](docs/03-rhel-lightspeed.md) | [`labs/lab-03-lightspeed/`](labs/lab-03-lightspeed/) |
 | **05** | Linux Directories Explained (FHS) | ✅ **Complete** | [`docs/04-filesystem-hierarchy.md`](docs/04-filesystem-hierarchy.md) | [`labs/lab-04-filesystem-hierarchy/`](labs/lab-04-filesystem-hierarchy/) |
 | **06** | Basic File Management | ✅ **Complete** | [`docs/05-basic-file-management.md`](docs/05-basic-file-management.md) | [`labs/lab-05-file-management/`](labs/lab-05-file-management/) |
-| **07** | Editing Files with Vim | ⏳ **Pending** | Coming Soon | Coming Soon |
+| **07** | Editing Files with Vim | ✅ **Complete** | [`docs/06-vim-text-editing.md`](docs/06-vim-text-editing.md) | [`labs/lab-06-vim-editing/`](labs/lab-06-vim-editing/) |
 | **08** | Organizing Local Users and Groups | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **09** | File Permissions | ⏳ **Pending** | Coming Soon | Coming Soon |
 | **10** | Managing Software and Updates | ⏳ **Pending** | Coming Soon | Coming Soon |
